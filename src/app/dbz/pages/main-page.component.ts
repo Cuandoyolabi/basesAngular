@@ -4,7 +4,7 @@ import { DbzService } from '../services/dbz.service';
 
 @Component({
   selector: 'dbz-main-page',
-  templateUrl: './main-page.component.html'
+  templateUrl: "./main-page.component.html"
 })
 export class MainPageComponent  {
 
